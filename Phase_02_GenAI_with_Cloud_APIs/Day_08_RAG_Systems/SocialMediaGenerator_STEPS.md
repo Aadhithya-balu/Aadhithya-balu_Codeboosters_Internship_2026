@@ -548,4 +548,6 @@ with gr.Blocks(
 demo.launch(share=True)
 - share=True enables to make the URL public
 
-#### PUBLIC [LINK](https://9dd8aa977910219dc9.gradio.live/) 
+IF YOU RUN THIS YOU GET LINK OF LOCAL HOST AND PUBLIC
+#### Local link
+#### PUBLIC link
